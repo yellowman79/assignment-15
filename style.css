@@ -1,0 +1,19 @@
+body {
+    overflow-x: hidden; 
+  }
+ul li{
+margin-left: 5px;
+    color: white;
+    
+}
+ul{
+    margin-left: 110px;
+    
+}
+.khalu{
+    margin-left: 30px;
+    margin-top: -10px;
+}
+.tera{
+    width: 100%;
+}
